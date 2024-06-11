@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/perferendis-repellendus-voluptatum-nam",
-  "version": "4.5.32",
+  "version": "4.5.33",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -483,5 +483,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/perferendis-repellendus-voluptatum-nam/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
